@@ -25,7 +25,7 @@ manifest!(
     app_version = 1,
     has_icon = true,
     // See https://github.com/flipperzero-rs/flipperzero/blob/v0.11.0/docs/icons.md for icon format
-    icon = "mtechMono.icon",
+    icon = "masterlogoV2.ico",
 );
 
 // Define the entry function
